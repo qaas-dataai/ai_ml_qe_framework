@@ -1,0 +1,4 @@
+code_complexity,past_defects,test_coverage,defect_likelihood
+5,2,0.9,1
+8,5,0.7,0
+3,1,0.85,1

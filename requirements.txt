@@ -1,0 +1,11 @@
+pytest
+scikit-learn
+pandas
+numpy
+requests
+playwright
+transformers
+matplotlib
+seaborn
+scipy
+faker
